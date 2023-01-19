@@ -98,8 +98,11 @@ __Note:__ Before running code in a notebook, change the kernel to match the `drl
 
 [//]: # (Image References)
 
-[image2]: /src/Value-based-methods/Smart-Agent---Banana-Collector/image/ipynb_kernel.png "Trained Agent"
+[image2]: image/ipynb_kernel.png "Trained Agent"
 
 ![Jupyter Notebook Kernel][image2]
 
 ****
+
+
+## Result
