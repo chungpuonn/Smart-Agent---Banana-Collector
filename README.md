@@ -115,10 +115,6 @@ __Note:__ Before running code in a notebook, change the kernel to match the `drl
 
 ## Result
 
-<iframe width="100%" height="800" src="src/Value-based-methods/Smart-Agent---Banana-Collector/Report.pdf">
+[Demonstration Video](https://www.youtube.com/watch?v=cbHYhGkOx-s)
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[Report](Report.pdf) 
