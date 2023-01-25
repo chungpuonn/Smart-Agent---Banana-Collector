@@ -1,5 +1,5 @@
 # Smart-Agent---Banana-Collector
-For this project, an agent is being trained to navigate (and collect bananas!) in a large, square world.
+This is the 1st project of nano-degree "Deep Reinforcement Learning" from Udacity. For this project, an agent is being trained to navigate (and collect bananas!) in a large, square world.
 
 [//]: # (Image References)
 
@@ -91,6 +91,13 @@ Then, place the file in the `p1_navigation/` folder in the course GitHub reposit
 
 ### How-to run the code
 
+```bash 
+
+source activate drlnd 
+
+``` 
+
+
 Open the Jupyter Notebook of "Navigation (Solution).ipynb", and then follow the written instruction inside to train and deploy a smart agent!
 
 __Note:__ Before running code in a notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu.  
@@ -102,7 +109,16 @@ __Note:__ Before running code in a notebook, change the kernel to match the `drl
 
 ![Jupyter Notebook Kernel][image2]
 
+
 ****
 
 
 ## Result
+
+<iframe width="100%" height="800" src="src/Value-based-methods/Smart-Agent---Banana-Collector/Report.pdf">
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
